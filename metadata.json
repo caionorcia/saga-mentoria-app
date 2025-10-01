@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Mentores - SAGA",
+  "description": "An application to manage mentees, track their progress, tasks, and mentorship sessions. Designed for mentors to keep detailed records and observations.",
+  "requestFramePermissions": []
+}
